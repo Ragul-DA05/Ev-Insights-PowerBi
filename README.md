@@ -1,12 +1,5 @@
-<img src="images/dashboard.png" alt="EV Dashboard" width="100%">
 ⚡ Electric Vehicle Market Insights Dashboard
 
-"Power BI" (https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
-"Status" (https://img.shields.io/badge/Project-Completed-brightgreen)
-"Domain" (https://img.shields.io/badge/Domain-Data%20Analytics-blue)
-"License" (https://img.shields.io/badge/License-MIT-lightgrey)
-
----
 
 📌 Overview
 
@@ -65,6 +58,8 @@ The goal is to help stakeholders make data-driven decisions in the rapidly growi
 
 <img src="<img width="1472" height="828" alt="PowerBi_Dashboard" src="https://github.com/user-attachments/assets/b3771dcd-31a8-4a56-a8d8-16ec0ed663b6" />
 " alt="EV Dashboard" width="100%">---
+
+
 
 📂 Project Structure
 
